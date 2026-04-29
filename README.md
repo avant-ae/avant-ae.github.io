@@ -7,5 +7,6 @@
   ar 
   ar-modes="webxr scene-viewer quick-look" 
   camera-controls 
+  reveal="interaction"
   tone-mapping="neutral">
 </model-viewer>
