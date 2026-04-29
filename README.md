@@ -1,1 +1,1 @@
-<iframe src="https://viewer.tinyglb.com/c6eb35caa4cc4dbfa6c7ef72a5486639" style="border: 0; height: 600px; width: 100%"></iframe>
+<iframe src="https://viewer.tinyglb.com/95633302d91241b2a8401c25f8e446e9" style="border: 0; height: 600px; width: 100%"></iframe>
